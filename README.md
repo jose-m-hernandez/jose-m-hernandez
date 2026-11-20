@@ -1,14 +1,13 @@
 # José Miguel Hernandez
 
-Staff Software Engineer | Applied AI & Agent Platforms
+I build applied AI and the agent platforms other engineers ship on.
 
-I build AI tools for people outside engineering, and the guardrails that make them safe to trust.
+I'm a Staff Software Engineer in applied AI and agent platforms. I spent nine years at [AdRoll](https://jose.io/work/adroll). In the last stretch I brought LLM agents into how our engineers work and into our design system. I owned the safety and governance layer of our engineering agent, and shipped a kill switch for its writes ten days after it could open pull requests. In our shared agent-skills repo I wrote the rule that no skill merges without a documented eval.
 
-## Start here
+## Projects
 
-- **[cleanroom-researcher](https://github.com/jose-m-hernandez/cleanroom-researcher)**: repeatable experiments on AI tools. Each experiment commits its question, its method, and the result that would count against its prediction before the first run.
-- **[career-track-record](https://github.com/jose-m-hernandez/career-track-record)**: check the career copy you send for barred wording, keyword gaps, and hype and filler, and test which of two drafts reads better.
-- **[kidzone](https://github.com/jose-m-hernandez/kidzone)**: my kids and their friends design browser games here with an AI coding agent. They bring the idea, the agent builds a rough first draft, and we play it and refine it together.
-- **[XTreeJS](https://github.com/jose-m-hernandez/XTreeJS)**: a keyboard-first revival of the DOS-era XTree file manager, built with Bun and TypeScript.
+- **[cleanroom-researcher](https://github.com/jose-m-hernandez/cleanroom-researcher)**: repeatable experiments on AI tools. Each writes down its question, its method and the result that would count against its prediction before the first run.
+- **[career-track-record](https://github.com/jose-m-hernandez/career-track-record)**: checks for the career copy you send. Your AI agent runs the tools: they check each sentence against the claims you approved, flag ruled-out wording, missing keywords and hype, and test which of two drafts reads better.
+- **[kidzone](https://github.com/jose-m-hernandez/kidzone)**: browser games a crew of young designers dreams up and I build with an AI coding agent. The agent builds a rough first draft, and we play it and refine it together. A CI check holds every game to its privacy rules. Built with dezi-bot.
 
 More at [jose.io](https://jose.io) and on [LinkedIn](https://www.linkedin.com/in/josemiguelhernandez/).
